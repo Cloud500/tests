@@ -1,0 +1,7 @@
+div.MuiStack-root img {
+  display: none;
+}
+
+div.MuiStack-root img::before {
+  content: url("https://raw.githubusercontent.com/Cloud500/tests/refs/heads/main/Kitu.png");
+}
