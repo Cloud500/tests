@@ -1,12 +1,12 @@
-div.MuiStack-root img {
+img.rounded-full {
   display: none;
 }
 
-div.MuiStack-root img::before {
+img.rounded-full::before {
   content: url("https://raw.githubusercontent.com/Cloud500/tests/refs/heads/main/Kitu.png");
 }
 
 
-#chat-scroll-view {
+main {
   background-color: #8B0000
 }
