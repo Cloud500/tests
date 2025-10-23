@@ -5,3 +5,8 @@ div.MuiStack-root img {
 div.MuiStack-root img::before {
   content: url("https://raw.githubusercontent.com/Cloud500/tests/refs/heads/main/Kitu.png");
 }
+
+
+#chat-scroll-view {
+  background-color: #8B0000
+}
